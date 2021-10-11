@@ -1,7 +1,7 @@
 # Instalación del IDE Netbeans 12
 ## Indice
 - **[1. Requisitos](#requisitos)**
-- **[2. Instalación](#instalacion)**
+- **[2. Instalación](#instalación)**
 - **[3. Ejecución](#ejecución)**
 ### Requisitos
 Para poder comenzar con la práctica necesitaremos tener instalado Java para que el IDE Netbeans pueda funcionar correctamente, aunque si no está instalado java lo podremos pero no funcionará.	A modo de comprobación de que tenemos el java instalado deberemos usar el comando **“java -version”**.
